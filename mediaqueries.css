@@ -100,4 +100,10 @@
     .text-container {
       text-align: justify;
     }
+    #projects{
+      margin-top: 6rem;
+    }
+    #contact{
+      margin-top: -1rem;
+    }
   }
